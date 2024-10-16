@@ -14,7 +14,7 @@ med ID-navnet fillInText fra HTML */
 const fillInText = document.getElementById('fillInText');
 console.log(fillInText);
 
-fillInText.textContent = 'Jeg er innhold fra JavaScript!';
+fillInText.textContent = 'Jeg er tekst hentet fra JavaScript!';
 
 const changeColor = document.getElementById('changeColor');
 console.log(changeColor);

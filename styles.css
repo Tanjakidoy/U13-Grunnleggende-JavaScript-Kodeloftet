@@ -46,13 +46,12 @@ nav a[aria-current='page'] {
 }
 
 main {
-  
-  }
+   }
  
-  
   div {
     height: 200px;
     width: 200px;
+    margin-top: 20px;
   }
 
 img {
@@ -110,3 +109,5 @@ footer {
   .blue {
     background-color: blue;
   }
+
+  
