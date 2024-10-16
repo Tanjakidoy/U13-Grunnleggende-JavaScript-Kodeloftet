@@ -4,8 +4,8 @@
 }
 
 body {
-  font-family: system-ui, sans-serif; 
-    }
+  font-family: system-ui, sans-serif;
+      }
 
 a {
   color: #1D2025;
@@ -46,6 +46,7 @@ nav a[aria-current='page'] {
 }
 
 main {
+ 
    }
  
   div {
@@ -64,11 +65,10 @@ h1 {
   font-size: 1.5rem;
 }
 
-
-
 a {
   color: blue;
 }
+
 footer {
   text-align: center;
   background-color: white;
@@ -77,6 +77,7 @@ footer {
 
   /* Styling av klasser i CSS */
 
+  
   .section_1 {
    background-color: antiquewhite; 
    
