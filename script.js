@@ -1,13 +1,4 @@
-// RECAP
-// variabler
 
-const name = 'Julie';
-
-let age = 27;
-
-const isPresent = true;
-
-// variabelen 'var' er gått ut på dato
 
 // primære datatyper
 // "" '' = string
