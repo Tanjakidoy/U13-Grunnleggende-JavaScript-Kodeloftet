@@ -79,20 +79,17 @@ footer {
 
   .section_1 {
    background-color: antiquewhite; 
-   height: 50vh;
+   
    padding-top: 3rem;
    padding-left: 3rem;
    padding-bottom: 3rem;
   }
 
   .section_2 {
-    background-color: antiquewhite; 
-    height: 50vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding-left: 3rem;
-    padding-bottom: 3rem;
+  background-color: wheat; 
+   padding-top: 3rem;
+   padding-left: 3rem;
+   padding-bottom: 3rem;
    }
 
   .bold {
